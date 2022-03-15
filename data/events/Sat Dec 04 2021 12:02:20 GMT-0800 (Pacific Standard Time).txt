@@ -1,0 +1,6 @@
+Sat Dec 04 2021 12:00:28 GMT-0800 (Pacific Standard Time) af4173a4-4881-40e8-b89e-528cc08dc257 INFO { "email": "lissisuelo@gmail.com", "type": "debug", "message": "Lorem laboris" }
+Sat Dec 04 2021 12:00:54 GMT-0800 (Pacific Standard Time) af4173a4-4881-40e8-b89e-528cc08dc257 INFO { "email": "lissisuelo@gmail.com", "type": "test", "message": "in adipisicing enim cupidatat sint" }
+Sat Dec 04 2021 12:01:23 GMT-0800 (Pacific Standard Time) af4173a4-4881-40e8-b89e-528cc08dc257 INFO { "email": "lissisuelo@gmail.com", "type": "debug", "message": "proident fugiat do" }
+Sat Dec 04 2021 12:01:45 GMT-0800 (Pacific Standard Time) af4173a4-4881-40e8-b89e-528cc08dc257 INFO { "email": "lissisuelo@gmail.com", "type": "debug", "message": "culpa voluptate do esse id" }
+Sat Dec 04 2021 12:02:10 GMT-0800 (Pacific Standard Time) af4173a4-4881-40e8-b89e-528cc08dc257 INFO { "email": "lissisuelo@gmail.com", "type": "log", "message": "nulla duis" }
+Sat Dec 04 2021 12:02:20 GMT-0800 (Pacific Standard Time) af4173a4-4881-40e8-b89e-528cc08dc257 INFO { "email": "lissisuelo@gmail.com", "type": "applied", "message": "User applied" }

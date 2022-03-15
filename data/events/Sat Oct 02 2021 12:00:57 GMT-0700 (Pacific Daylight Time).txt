@@ -1,0 +1,5 @@
+Sat Oct 02 2021 12:00:10 GMT-0700 (Pacific Daylight Time) e054ec84-8bc1-4b12-a48e-945c6c335810 INFO { "email": "lolafarleigh@gmail.com", "type": "applied", "message": "User applied" }
+Sat Oct 02 2021 12:00:23 GMT-0700 (Pacific Daylight Time) e054ec84-8bc1-4b12-a48e-945c6c335810 INFO { "email": "lolafarleigh@gmail.com", "type": "rejected", "message": "User rejected" }
+Sat Oct 02 2021 12:00:41 GMT-0700 (Pacific Daylight Time) e054ec84-8bc1-4b12-a48e-945c6c335810 INFO { "email": "lolafarleigh@gmail.com", "type": "debug", "message": "eu" }
+Sat Oct 02 2021 12:00:48 GMT-0700 (Pacific Daylight Time) e054ec84-8bc1-4b12-a48e-945c6c335810 INFO { "email": "lolafarleigh@gmail.com", "type": "info", "message": "commodo esse irure" }
+Sat Oct 02 2021 12:00:57 GMT-0700 (Pacific Daylight Time) e054ec84-8bc1-4b12-a48e-945c6c335810 INFO { "email": "lolafarleigh@gmail.com", "type": "warn", "message": "ut nulla aute" }

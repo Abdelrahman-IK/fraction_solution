@@ -1,0 +1,99 @@
+Wed Dec 15 2021 12:00:34 GMT-0800 (Pacific Standard Time) 90097acd-e9aa-4760-bb01-ab9ab60e9c45 INFO { "email": "marlohenrique@gmail.com", "type": "test", "message": "aliqua excepteur culpa ut sunt ipsum" }
+Wed Dec 15 2021 12:01:01 GMT-0800 (Pacific Standard Time) 90097acd-e9aa-4760-bb01-ab9ab60e9c45 INFO { "email": "marlohenrique@gmail.com", "type": "log", "message": "occaecat" }
+Wed Dec 15 2021 12:01:13 GMT-0800 (Pacific Standard Time) 90097acd-e9aa-4760-bb01-ab9ab60e9c45 INFO { "email": "marlohenrique@gmail.com", "type": "test", "message": "officia et qui ea ex" }
+Wed Dec 15 2021 12:01:18 GMT-0800 (Pacific Standard Time) 90097acd-e9aa-4760-bb01-ab9ab60e9c45 INFO { "email": "marlohenrique@gmail.com", "type": "debug", "message": "consectetur ipsum duis aliquip" }
+Wed Dec 15 2021 12:01:23 GMT-0800 (Pacific Standard Time) 90097acd-e9aa-4760-bb01-ab9ab60e9c45 INFO { "email": "marlohenrique@gmail.com", "type": "log", "message": "reprehenderit non excepteur ea eiusmod ex" }
+Wed Dec 15 2021 12:01:40 GMT-0800 (Pacific Standard Time) 90097acd-e9aa-4760-bb01-ab9ab60e9c45 INFO { "email": "marlohenrique@gmail.com", "type": "debug", "message": "voluptate culpa aute commodo" }
+Wed Dec 15 2021 12:01:45 GMT-0800 (Pacific Standard Time) 90097acd-e9aa-4760-bb01-ab9ab60e9c45 INFO { "email": "marlohenrique@gmail.com", "type": "debug", "message": "officia mollit pariatur dolore" }
+Wed Dec 15 2021 12:02:13 GMT-0800 (Pacific Standard Time) 90097acd-e9aa-4760-bb01-ab9ab60e9c45 INFO { "email": "marlohenrique@gmail.com", "type": "debug", "message": "et aliquip id commodo duis" }
+Wed Dec 15 2021 12:02:31 GMT-0800 (Pacific Standard Time) 90097acd-e9aa-4760-bb01-ab9ab60e9c45 INFO { "email": "marlohenrique@gmail.com", "type": "info", "message": "ipsum ex consectetur dolor culpa nulla" }
+Wed Dec 15 2021 12:02:39 GMT-0800 (Pacific Standard Time) 90097acd-e9aa-4760-bb01-ab9ab60e9c45 INFO { "email": "marlohenrique@gmail.com", "type": "warn", "message": "ad aute quis enim" }
+Wed Dec 15 2021 12:03:02 GMT-0800 (Pacific Standard Time) 90097acd-e9aa-4760-bb01-ab9ab60e9c45 INFO { "email": "marlohenrique@gmail.com", "type": "log", "message": "aute consequat" }
+Wed Dec 15 2021 12:03:09 GMT-0800 (Pacific Standard Time) 90097acd-e9aa-4760-bb01-ab9ab60e9c45 INFO { "email": "marlohenrique@gmail.com", "type": "log", "message": "eiusmod commodo commodo" }
+Wed Dec 15 2021 12:03:32 GMT-0800 (Pacific Standard Time) 90097acd-e9aa-4760-bb01-ab9ab60e9c45 INFO { "email": "marlohenrique@gmail.com", "type": "warn", "message": "mollit eu" }
+Wed Dec 15 2021 12:03:43 GMT-0800 (Pacific Standard Time) 90097acd-e9aa-4760-bb01-ab9ab60e9c45 INFO { "email": "marlohenrique@gmail.com", "type": "info", "message": "duis aliquip reprehenderit elit deserunt" }
+Wed Dec 15 2021 12:04:05 GMT-0800 (Pacific Standard Time) 90097acd-e9aa-4760-bb01-ab9ab60e9c45 INFO { "email": "marlohenrique@gmail.com", "type": "info", "message": "occaecat aliquip ipsum" }
+Wed Dec 15 2021 12:04:30 GMT-0800 (Pacific Standard Time) 90097acd-e9aa-4760-bb01-ab9ab60e9c45 INFO { "email": "marlohenrique@gmail.com", "type": "warn", "message": "minim nostrud fugiat labore irure" }
+Wed Dec 15 2021 12:04:51 GMT-0800 (Pacific Standard Time) 90097acd-e9aa-4760-bb01-ab9ab60e9c45 INFO { "email": "marlohenrique@gmail.com", "type": "applied", "message": "User applied" }
+Wed Dec 15 2021 12:04:55 GMT-0800 (Pacific Standard Time) 90097acd-e9aa-4760-bb01-ab9ab60e9c45 INFO { "email": "marlohenrique@gmail.com", "type": "log", "message": "incididunt" }
+Wed Dec 15 2021 12:05:19 GMT-0800 (Pacific Standard Time) 90097acd-e9aa-4760-bb01-ab9ab60e9c45 INFO { "email": "marlohenrique@gmail.com", "type": "log", "message": "officia" }
+Wed Dec 15 2021 12:05:25 GMT-0800 (Pacific Standard Time) 90097acd-e9aa-4760-bb01-ab9ab60e9c45 INFO { "email": "marlohenrique@gmail.com", "type": "rejected", "message": "User rejected" }
+Wed Dec 15 2021 12:05:26 GMT-0800 (Pacific Standard Time) 90097acd-e9aa-4760-bb01-ab9ab60e9c45 INFO { "email": "marlohenrique@gmail.com", "type": "debug", "message": "aliquip irure id id officia amet" }
+Wed Dec 15 2021 12:05:32 GMT-0800 (Pacific Standard Time) 90097acd-e9aa-4760-bb01-ab9ab60e9c45 INFO { "email": "marlohenrique@gmail.com", "type": "debug", "message": "Lorem nulla labore irure occaecat" }
+Wed Dec 15 2021 12:05:40 GMT-0800 (Pacific Standard Time) 90097acd-e9aa-4760-bb01-ab9ab60e9c45 INFO { "email": "marlohenrique@gmail.com", "type": "test", "message": "do enim elit exercitation ullamco" }
+Wed Dec 15 2021 12:06:02 GMT-0800 (Pacific Standard Time) 90097acd-e9aa-4760-bb01-ab9ab60e9c45 INFO { "email": "marlohenrique@gmail.com", "type": "info", "message": "exercitation cupidatat reprehenderit sunt adipisicing ut" }
+Wed Dec 15 2021 12:06:20 GMT-0800 (Pacific Standard Time) 90097acd-e9aa-4760-bb01-ab9ab60e9c45 INFO { "email": "marlohenrique@gmail.com", "type": "debug", "message": "proident officia" }
+Wed Dec 15 2021 12:06:24 GMT-0800 (Pacific Standard Time) 90097acd-e9aa-4760-bb01-ab9ab60e9c45 INFO { "email": "marlohenrique@gmail.com", "type": "debug", "message": "voluptate voluptate" }
+Wed Dec 15 2021 12:06:51 GMT-0800 (Pacific Standard Time) 90097acd-e9aa-4760-bb01-ab9ab60e9c45 INFO { "email": "marlohenrique@gmail.com", "type": "test", "message": "laborum ea" }
+Wed Dec 15 2021 12:07:04 GMT-0800 (Pacific Standard Time) 90097acd-e9aa-4760-bb01-ab9ab60e9c45 INFO { "email": "marlohenrique@gmail.com", "type": "info", "message": "do incididunt nostrud ut Lorem" }
+Wed Dec 15 2021 12:07:09 GMT-0800 (Pacific Standard Time) 90097acd-e9aa-4760-bb01-ab9ab60e9c45 INFO { "email": "marlohenrique@gmail.com", "type": "test", "message": "sunt deserunt reprehenderit qui duis" }
+Wed Dec 15 2021 12:07:11 GMT-0800 (Pacific Standard Time) 90097acd-e9aa-4760-bb01-ab9ab60e9c45 INFO { "email": "marlohenrique@gmail.com", "type": "debug", "message": "aliquip veniam pariatur nulla nulla labore" }
+Wed Dec 15 2021 12:07:35 GMT-0800 (Pacific Standard Time) 90097acd-e9aa-4760-bb01-ab9ab60e9c45 INFO { "email": "marlohenrique@gmail.com", "type": "debug", "message": "id labore nulla consequat adipisicing cillum" }
+Wed Dec 15 2021 12:07:46 GMT-0800 (Pacific Standard Time) 90097acd-e9aa-4760-bb01-ab9ab60e9c45 INFO { "email": "marlohenrique@gmail.com", "type": "info", "message": "ut irure aliquip aliqua aliqua veniam" }
+Wed Dec 15 2021 12:08:00 GMT-0800 (Pacific Standard Time) 90097acd-e9aa-4760-bb01-ab9ab60e9c45 INFO { "email": "marlohenrique@gmail.com", "type": "info", "message": "minim consequat elit nostrud excepteur" }
+Wed Dec 15 2021 12:08:30 GMT-0800 (Pacific Standard Time) 90097acd-e9aa-4760-bb01-ab9ab60e9c45 INFO { "email": "marlohenrique@gmail.com", "type": "debug", "message": "aliqua aliquip est dolor ad aliqua" }
+Wed Dec 15 2021 12:08:40 GMT-0800 (Pacific Standard Time) 90097acd-e9aa-4760-bb01-ab9ab60e9c45 INFO { "email": "marlohenrique@gmail.com", "type": "info", "message": "enim id quis non Lorem" }
+Wed Dec 15 2021 12:09:04 GMT-0800 (Pacific Standard Time) 90097acd-e9aa-4760-bb01-ab9ab60e9c45 INFO { "email": "marlohenrique@gmail.com", "type": "log", "message": "mollit sunt" }
+Wed Dec 15 2021 12:09:12 GMT-0800 (Pacific Standard Time) 90097acd-e9aa-4760-bb01-ab9ab60e9c45 INFO { "email": "marlohenrique@gmail.com", "type": "debug", "message": "reprehenderit nulla culpa" }
+Wed Dec 15 2021 12:09:40 GMT-0800 (Pacific Standard Time) 90097acd-e9aa-4760-bb01-ab9ab60e9c45 INFO { "email": "marlohenrique@gmail.com", "type": "debug", "message": "eu" }
+Wed Dec 15 2021 12:09:52 GMT-0800 (Pacific Standard Time) 90097acd-e9aa-4760-bb01-ab9ab60e9c45 INFO { "email": "marlohenrique@gmail.com", "type": "warn", "message": "reprehenderit nostrud non" }
+Wed Dec 15 2021 12:10:08 GMT-0800 (Pacific Standard Time) 90097acd-e9aa-4760-bb01-ab9ab60e9c45 INFO { "email": "marlohenrique@gmail.com", "type": "info", "message": "excepteur" }
+Wed Dec 15 2021 12:10:14 GMT-0800 (Pacific Standard Time) 90097acd-e9aa-4760-bb01-ab9ab60e9c45 INFO { "email": "marlohenrique@gmail.com", "type": "debug", "message": "aliquip mollit dolor ea duis laboris" }
+Wed Dec 15 2021 12:10:28 GMT-0800 (Pacific Standard Time) 90097acd-e9aa-4760-bb01-ab9ab60e9c45 INFO { "email": "marlohenrique@gmail.com", "type": "info", "message": "non nisi irure sint consectetur consequat" }
+Wed Dec 15 2021 12:10:36 GMT-0800 (Pacific Standard Time) 90097acd-e9aa-4760-bb01-ab9ab60e9c45 INFO { "email": "marlohenrique@gmail.com", "type": "test", "message": "velit" }
+Wed Dec 15 2021 12:11:00 GMT-0800 (Pacific Standard Time) 90097acd-e9aa-4760-bb01-ab9ab60e9c45 INFO { "email": "marlohenrique@gmail.com", "type": "debug", "message": "quis dolore" }
+Wed Dec 15 2021 12:11:07 GMT-0800 (Pacific Standard Time) 90097acd-e9aa-4760-bb01-ab9ab60e9c45 INFO { "email": "marlohenrique@gmail.com", "type": "debug", "message": "fugiat quis dolor occaecat" }
+Wed Dec 15 2021 12:11:12 GMT-0800 (Pacific Standard Time) 90097acd-e9aa-4760-bb01-ab9ab60e9c45 INFO { "email": "marlohenrique@gmail.com", "type": "log", "message": "duis quis esse nisi voluptate pariatur" }
+Wed Dec 15 2021 12:11:34 GMT-0800 (Pacific Standard Time) 90097acd-e9aa-4760-bb01-ab9ab60e9c45 INFO { "email": "marlohenrique@gmail.com", "type": "warn", "message": "commodo laborum anim proident consequat" }
+Wed Dec 15 2021 12:11:45 GMT-0800 (Pacific Standard Time) 90097acd-e9aa-4760-bb01-ab9ab60e9c45 INFO { "email": "marlohenrique@gmail.com", "type": "debug", "message": "nostrud eiusmod" }
+Wed Dec 15 2021 12:12:15 GMT-0800 (Pacific Standard Time) 90097acd-e9aa-4760-bb01-ab9ab60e9c45 INFO { "email": "marlohenrique@gmail.com", "type": "info", "message": "incididunt adipisicing anim irure officia" }
+Wed Dec 15 2021 12:12:32 GMT-0800 (Pacific Standard Time) 90097acd-e9aa-4760-bb01-ab9ab60e9c45 INFO { "email": "marlohenrique@gmail.com", "type": "info", "message": "labore duis" }
+Wed Dec 15 2021 12:12:58 GMT-0800 (Pacific Standard Time) 90097acd-e9aa-4760-bb01-ab9ab60e9c45 INFO { "email": "marlohenrique@gmail.com", "type": "debug", "message": "quis sint" }
+Wed Dec 15 2021 12:13:26 GMT-0800 (Pacific Standard Time) 90097acd-e9aa-4760-bb01-ab9ab60e9c45 INFO { "email": "marlohenrique@gmail.com", "type": "info", "message": "velit mollit reprehenderit" }
+Wed Dec 15 2021 12:13:56 GMT-0800 (Pacific Standard Time) 90097acd-e9aa-4760-bb01-ab9ab60e9c45 INFO { "email": "marlohenrique@gmail.com", "type": "debug", "message": "duis qui nulla veniam reprehenderit" }
+Wed Dec 15 2021 12:14:01 GMT-0800 (Pacific Standard Time) 90097acd-e9aa-4760-bb01-ab9ab60e9c45 INFO { "email": "marlohenrique@gmail.com", "type": "test", "message": "do" }
+Wed Dec 15 2021 12:14:10 GMT-0800 (Pacific Standard Time) 90097acd-e9aa-4760-bb01-ab9ab60e9c45 INFO { "email": "marlohenrique@gmail.com", "type": "test", "message": "id incididunt ullamco incididunt" }
+Wed Dec 15 2021 12:14:19 GMT-0800 (Pacific Standard Time) 90097acd-e9aa-4760-bb01-ab9ab60e9c45 INFO { "email": "marlohenrique@gmail.com", "type": "test", "message": "sit est dolor" }
+Wed Dec 15 2021 12:14:48 GMT-0800 (Pacific Standard Time) 90097acd-e9aa-4760-bb01-ab9ab60e9c45 INFO { "email": "marlohenrique@gmail.com", "type": "info", "message": "id eiusmod" }
+Wed Dec 15 2021 12:14:49 GMT-0800 (Pacific Standard Time) 90097acd-e9aa-4760-bb01-ab9ab60e9c45 INFO { "email": "marlohenrique@gmail.com", "type": "log", "message": "Lorem in cupidatat nulla ut" }
+Wed Dec 15 2021 12:15:16 GMT-0800 (Pacific Standard Time) 90097acd-e9aa-4760-bb01-ab9ab60e9c45 INFO { "email": "marlohenrique@gmail.com", "type": "info", "message": "tempor tempor adipisicing nulla fugiat enim" }
+Wed Dec 15 2021 12:15:31 GMT-0800 (Pacific Standard Time) 90097acd-e9aa-4760-bb01-ab9ab60e9c45 INFO { "email": "marlohenrique@gmail.com", "type": "test", "message": "et tempor culpa nulla non elit" }
+Wed Dec 15 2021 12:15:59 GMT-0800 (Pacific Standard Time) 90097acd-e9aa-4760-bb01-ab9ab60e9c45 INFO { "email": "marlohenrique@gmail.com", "type": "debug", "message": "aliqua exercitation minim consequat excepteur officia" }
+Wed Dec 15 2021 12:16:03 GMT-0800 (Pacific Standard Time) 90097acd-e9aa-4760-bb01-ab9ab60e9c45 INFO { "email": "marlohenrique@gmail.com", "type": "info", "message": "nisi excepteur sunt adipisicing" }
+Wed Dec 15 2021 12:16:30 GMT-0800 (Pacific Standard Time) 90097acd-e9aa-4760-bb01-ab9ab60e9c45 INFO { "email": "marlohenrique@gmail.com", "type": "debug", "message": "dolore mollit eu non aute" }
+Wed Dec 15 2021 12:16:54 GMT-0800 (Pacific Standard Time) 90097acd-e9aa-4760-bb01-ab9ab60e9c45 INFO { "email": "marlohenrique@gmail.com", "type": "info", "message": "aliqua reprehenderit culpa ullamco sunt sunt" }
+Wed Dec 15 2021 12:16:58 GMT-0800 (Pacific Standard Time) 90097acd-e9aa-4760-bb01-ab9ab60e9c45 INFO { "email": "marlohenrique@gmail.com", "type": "debug", "message": "elit aute sint non" }
+Wed Dec 15 2021 12:17:26 GMT-0800 (Pacific Standard Time) 90097acd-e9aa-4760-bb01-ab9ab60e9c45 INFO { "email": "marlohenrique@gmail.com", "type": "info", "message": "est sint ipsum" }
+Wed Dec 15 2021 12:17:27 GMT-0800 (Pacific Standard Time) 90097acd-e9aa-4760-bb01-ab9ab60e9c45 INFO { "email": "marlohenrique@gmail.com", "type": "info", "message": "duis reprehenderit nulla irure" }
+Wed Dec 15 2021 12:17:30 GMT-0800 (Pacific Standard Time) 90097acd-e9aa-4760-bb01-ab9ab60e9c45 INFO { "email": "marlohenrique@gmail.com", "type": "debug", "message": "velit" }
+Wed Dec 15 2021 12:17:58 GMT-0800 (Pacific Standard Time) 90097acd-e9aa-4760-bb01-ab9ab60e9c45 INFO { "email": "marlohenrique@gmail.com", "type": "info", "message": "velit ea excepteur" }
+Wed Dec 15 2021 12:18:22 GMT-0800 (Pacific Standard Time) 90097acd-e9aa-4760-bb01-ab9ab60e9c45 INFO { "email": "marlohenrique@gmail.com", "type": "warn", "message": "eu deserunt magna" }
+Wed Dec 15 2021 12:18:35 GMT-0800 (Pacific Standard Time) 90097acd-e9aa-4760-bb01-ab9ab60e9c45 INFO { "email": "marlohenrique@gmail.com", "type": "warn", "message": "eu ut aute officia" }
+Wed Dec 15 2021 12:18:49 GMT-0800 (Pacific Standard Time) 90097acd-e9aa-4760-bb01-ab9ab60e9c45 INFO { "email": "marlohenrique@gmail.com", "type": "debug", "message": "ut proident deserunt mollit" }
+Wed Dec 15 2021 12:19:04 GMT-0800 (Pacific Standard Time) 90097acd-e9aa-4760-bb01-ab9ab60e9c45 INFO { "email": "marlohenrique@gmail.com", "type": "test", "message": "amet" }
+Wed Dec 15 2021 12:19:15 GMT-0800 (Pacific Standard Time) 90097acd-e9aa-4760-bb01-ab9ab60e9c45 INFO { "email": "marlohenrique@gmail.com", "type": "test", "message": "labore ex" }
+Wed Dec 15 2021 12:19:42 GMT-0800 (Pacific Standard Time) 90097acd-e9aa-4760-bb01-ab9ab60e9c45 INFO { "email": "marlohenrique@gmail.com", "type": "info", "message": "ut Lorem" }
+Wed Dec 15 2021 12:20:00 GMT-0800 (Pacific Standard Time) 90097acd-e9aa-4760-bb01-ab9ab60e9c45 INFO { "email": "marlohenrique@gmail.com", "type": "log", "message": "tempor reprehenderit irure enim veniam dolor" }
+Wed Dec 15 2021 12:20:08 GMT-0800 (Pacific Standard Time) 90097acd-e9aa-4760-bb01-ab9ab60e9c45 INFO { "email": "marlohenrique@gmail.com", "type": "info", "message": "duis do fugiat dolore eu in" }
+Wed Dec 15 2021 12:20:30 GMT-0800 (Pacific Standard Time) 90097acd-e9aa-4760-bb01-ab9ab60e9c45 INFO { "email": "marlohenrique@gmail.com", "type": "debug", "message": "proident in et esse" }
+Wed Dec 15 2021 12:20:53 GMT-0800 (Pacific Standard Time) 90097acd-e9aa-4760-bb01-ab9ab60e9c45 INFO { "email": "marlohenrique@gmail.com", "type": "debug", "message": "consectetur ullamco consectetur dolor" }
+Wed Dec 15 2021 12:21:00 GMT-0800 (Pacific Standard Time) 90097acd-e9aa-4760-bb01-ab9ab60e9c45 INFO { "email": "marlohenrique@gmail.com", "type": "debug", "message": "eiusmod do et nisi" }
+Wed Dec 15 2021 12:21:22 GMT-0800 (Pacific Standard Time) 90097acd-e9aa-4760-bb01-ab9ab60e9c45 INFO { "email": "marlohenrique@gmail.com", "type": "log", "message": "amet sit incididunt eiusmod excepteur dolor" }
+Wed Dec 15 2021 12:21:49 GMT-0800 (Pacific Standard Time) 90097acd-e9aa-4760-bb01-ab9ab60e9c45 INFO { "email": "marlohenrique@gmail.com", "type": "info", "message": "irure" }
+Wed Dec 15 2021 12:21:56 GMT-0800 (Pacific Standard Time) 90097acd-e9aa-4760-bb01-ab9ab60e9c45 INFO { "email": "marlohenrique@gmail.com", "type": "test", "message": "nisi exercitation eu non et" }
+Wed Dec 15 2021 12:22:25 GMT-0800 (Pacific Standard Time) 90097acd-e9aa-4760-bb01-ab9ab60e9c45 INFO { "email": "marlohenrique@gmail.com", "type": "info", "message": "ipsum magna" }
+Wed Dec 15 2021 12:22:46 GMT-0800 (Pacific Standard Time) 90097acd-e9aa-4760-bb01-ab9ab60e9c45 INFO { "email": "marlohenrique@gmail.com", "type": "test", "message": "sint excepteur deserunt" }
+Wed Dec 15 2021 12:23:12 GMT-0800 (Pacific Standard Time) 90097acd-e9aa-4760-bb01-ab9ab60e9c45 INFO { "email": "marlohenrique@gmail.com", "type": "log", "message": "cupidatat occaecat sunt eu culpa ea" }
+Wed Dec 15 2021 12:23:22 GMT-0800 (Pacific Standard Time) 90097acd-e9aa-4760-bb01-ab9ab60e9c45 INFO { "email": "marlohenrique@gmail.com", "type": "test", "message": "nulla dolore aute eu" }
+Wed Dec 15 2021 12:23:47 GMT-0800 (Pacific Standard Time) 90097acd-e9aa-4760-bb01-ab9ab60e9c45 INFO { "email": "marlohenrique@gmail.com", "type": "info", "message": "commodo" }
+Wed Dec 15 2021 12:23:57 GMT-0800 (Pacific Standard Time) 90097acd-e9aa-4760-bb01-ab9ab60e9c45 INFO { "email": "marlohenrique@gmail.com", "type": "debug", "message": "irure magna" }
+Wed Dec 15 2021 12:24:19 GMT-0800 (Pacific Standard Time) 90097acd-e9aa-4760-bb01-ab9ab60e9c45 INFO { "email": "marlohenrique@gmail.com", "type": "warn", "message": "anim ut" }
+Wed Dec 15 2021 12:24:33 GMT-0800 (Pacific Standard Time) 90097acd-e9aa-4760-bb01-ab9ab60e9c45 INFO { "email": "marlohenrique@gmail.com", "type": "debug", "message": "irure officia officia" }
+Wed Dec 15 2021 12:24:45 GMT-0800 (Pacific Standard Time) 90097acd-e9aa-4760-bb01-ab9ab60e9c45 INFO { "email": "marlohenrique@gmail.com", "type": "info", "message": "quis occaecat" }
+Wed Dec 15 2021 12:25:13 GMT-0800 (Pacific Standard Time) 90097acd-e9aa-4760-bb01-ab9ab60e9c45 INFO { "email": "marlohenrique@gmail.com", "type": "info", "message": "ad" }
+Wed Dec 15 2021 12:25:28 GMT-0800 (Pacific Standard Time) 90097acd-e9aa-4760-bb01-ab9ab60e9c45 INFO { "email": "marlohenrique@gmail.com", "type": "info", "message": "in pariatur" }
+Wed Dec 15 2021 12:25:55 GMT-0800 (Pacific Standard Time) 90097acd-e9aa-4760-bb01-ab9ab60e9c45 INFO { "email": "marlohenrique@gmail.com", "type": "debug", "message": "adipisicing laboris" }
+Wed Dec 15 2021 12:26:22 GMT-0800 (Pacific Standard Time) 90097acd-e9aa-4760-bb01-ab9ab60e9c45 INFO { "email": "marlohenrique@gmail.com", "type": "log", "message": "proident voluptate esse qui eiusmod mollit" }
+Wed Dec 15 2021 12:26:44 GMT-0800 (Pacific Standard Time) 90097acd-e9aa-4760-bb01-ab9ab60e9c45 INFO { "email": "marlohenrique@gmail.com", "type": "info", "message": "ipsum aute est id proident" }
+Wed Dec 15 2021 12:26:55 GMT-0800 (Pacific Standard Time) 90097acd-e9aa-4760-bb01-ab9ab60e9c45 INFO { "email": "marlohenrique@gmail.com", "type": "debug", "message": "ipsum esse voluptate" }
+Wed Dec 15 2021 12:27:16 GMT-0800 (Pacific Standard Time) 607181ee-81ef-4a2c-b41e-0332e25bd369 INFO { "email": "bettiaruabea@gmail.com", "type": "test", "message": "enim eu elit eiusmod" }
