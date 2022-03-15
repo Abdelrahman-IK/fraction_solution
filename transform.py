@@ -1,5 +1,8 @@
 import json
 import pandas as pd
+import glob
+import ast
+import re
 
 def transform_users(users_file: str) -> pd.DataFrame:
     """
@@ -32,4 +35,44 @@ def transform_properties(properties: str) -> pd.DataFrame:
     dataframe[['postal','state']] = dataframe[['state','postal']]
     return dataframe
 
-print(transform_properties('data/properties.csv'))
+
+def extract_logs_data(data: str) -> dict:
+    """
+    Extracting the dictionary logs data from the text
+
+    input:
+        data: text that contains dictionary data
+    returns:
+        dictionary
+    """
+    try:
+        return ast.literal_eval(re.search('({.+})', data).group(0))
+    except:
+        return { "email": None, "type": None, "message": None}
+
+
+def transform_logs(logs_dir: str) -> pd.DataFrame:
+    """
+    Transforming text logs files into a cleaned dataframe
+
+    input:
+        logs_dir: a location for the directory of logs
+    returns:
+        pandas dataframe
+    """
+    frame = pd.DataFrame()
+    for file in glob.glob(logs_dir+"*.txt"):
+        with open(file) as f:
+            data = f.read()
+        df = pd.DataFrame(data.split('\n'),columns=['logs'])
+        df['timestamp'] = df['logs'].apply(lambda x: x.split(' GMT')[0])
+        df['timestamp'] = pd.to_datetime(df['timestamp'])
+        df['data'] = df['logs'].apply(lambda x: extract_logs_data(x))
+        df = pd.concat([df,df['data'].apply(pd.Series)], axis=1)
+        del df['logs']
+        del df['data']
+        frame = frame.append(df)
+    frame = frame.dropna()
+    return frame
+
+print(transform_logs('data/events/'))
