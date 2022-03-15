@@ -74,5 +74,3 @@ def transform_logs(logs_dir: str) -> pd.DataFrame:
         frame = frame.append(df)
     frame = frame.dropna()
     return frame
-
-print(transform_logs('data/events/'))
