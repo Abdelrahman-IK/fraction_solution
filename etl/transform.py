@@ -75,6 +75,6 @@ def transform_logs(logs_dir: str) -> pd.DataFrame:
         df = pd.concat([df,df['data'].apply(pd.Series)], axis=1)
         del df['logs']
         del df['data']
-        frame = frame.append(df)
+        frame = pd.concat([frame,df])
     frame = frame.dropna()
     return frame

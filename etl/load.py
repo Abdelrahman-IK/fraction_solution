@@ -2,7 +2,7 @@ import pandas as pd
 from sqlalchemy import create_engine
 
 
-DB_CONN = "postgresql://localhost:5432/postgres"
+DB_CONN = "postgresql://user:1234@db:5432/postgres"
 ENGINE = create_engine(DB_CONN)
 
 
