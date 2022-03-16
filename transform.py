@@ -18,7 +18,9 @@ def transform_users(users_file: str) -> pd.DataFrame:
     frame = pd.DataFrame(data)
     frame = pd.concat([frame, pd.DataFrame(list(frame['address'].apply(lambda x: x.split(","))), columns=["street","city", "state","country", "postal"])], axis=1)
     del frame['address']
-    frame['street'] = frame['street'].apply(lambda x: x.replace(' - ','') if x.startswith(' -') else x)
+    frame['unit'] = frame['street'].apply(lambda x: x.split(' - ')[0] if '-' in x else None)
+    frame['street'] = frame['street'].apply(lambda x: x.split(' - ')[1])
+    frame['state'] = frame['state'].apply(lambda x: x.strip())
     return frame
 
 
@@ -33,6 +35,8 @@ def transform_properties(properties: str) -> pd.DataFrame:
     """
     dataframe = pd.read_csv(properties)
     dataframe[['postal','state']] = dataframe[['state','postal']]
+    dataframe['state'] = dataframe['state'].apply(lambda x: x.strip())
+    dataframe = dataframe.rename(columns={"property value": "property_value", "existing mortgage amount": "existing_mortgage"})
     return dataframe
 
 
